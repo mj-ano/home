@@ -1,5 +1,5 @@
 # Site settings
-title: Jekyll-Uno
+title: Manoj Shunmugam
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'https://mj-ano.github.io'
 baseurl: '/jekyll-uno/'
@@ -7,7 +7,7 @@ baseurl: '/jekyll-uno/'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
+  name: 'Manoj Shunmugam'
   email: josh@joshgerdes.com
   twitter_username: joshgerdes
   facebook_username: joshgerdes
