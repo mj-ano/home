@@ -1,18 +1,18 @@
 # Site settings
 title: Manoj Shunmugam
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'Developer | Web Designer | Learner'
 url: 'https://mj-ano.github.io'
-baseurl: '/jekyll-uno/'
+baseurl: '/home/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Manoj Shunmugam'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  email: mj_ano@live.in
+  twitter_username: mj_ano
+  facebook_username: mj_ano
+  github_username:  mj_ano
+  linkedin_username:  mj_ano
 
 defaults:
   -
