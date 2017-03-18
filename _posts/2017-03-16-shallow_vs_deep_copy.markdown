@@ -2,7 +2,7 @@
 title:  "a = b ?? does it copy all for an Objects. – Shallow Vs Deep Copy"
 date:   2017-03-16 15:04:23
 categories: [concepts]
-tags: [coding]
+tags: [coding, learnt]
 ---
 
 First we need to understand the concept , 
