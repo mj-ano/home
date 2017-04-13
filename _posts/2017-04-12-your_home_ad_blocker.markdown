@@ -1,5 +1,5 @@
 ---
-title:  "Build an Adblocker in & for your home using pi-hole"
+title:  "Build an Adblocker using pi-hole for home network"
 date:   2017-03-16 15:04:23
 categories: [diy,home]
 tags: [learnt, raspberrypi]
@@ -9,7 +9,7 @@ So it's Ads everywhere and it's annoying..
 
 ![Ads Everywhere](https://media.giphy.com/media/d2YZzTQvyoNYf9YI/giphy.gif)
 
-So I came across  **PI-HOLE™** which was a fun learning way to get ads out of home. It's simple and easy way with Raspberry Pi, learn more about it [here](https://pi-hole.net/) .Here's an outline on the how part ?
+I came across  **PI-HOLE™** which was a fun learning way to get ads out of home. It's simple and easy way with Raspberry Pi, learn more about it [here](https://pi-hole.net/) .Here's an outline on the how part ?
 
 What we need,
  - Raspberry Pi 2/3 or even PiZero [You need to set up wireless network]
@@ -22,10 +22,13 @@ So Let's get started. I started off with the basic OS for Raspberry Pi - [Raspbi
 2. Flash the image to SDCard . Try [etcher](https://etcher.io/) it's super easy and cool :) 
 3. Insert SD Card, connect LAN Cable and Power supply . 
 
-**Pro Tips**
+**___________________________________________________________________________________________________________________________________**
+
+**Note**
 
 _Create a file named ssh without extension and place it in the memory card. It's to enable ssh by default when OS boots up. or you need to go through extra steps._
 
+**________________________________________________________________________________________________________________________________**
 
 Turn on the power and TAAADAAAA..!! now the Pi is up. ssh into it with default password [pi/raspberry] and install our magician by running one command:
 
@@ -51,6 +54,4 @@ It's a simple idea to serve a blank page for ad links it discovered and it's gon
 
 ![FREEDOM](https://media.giphy.com/media/6901DbEbbm4o0/giphy.gif)
 
-What next gonna set up a dashboard with metrics, So that we can see how our home network is doing from anywhere.
-
-Stay Tuned..!!
+Stay tuned for more..!! 
