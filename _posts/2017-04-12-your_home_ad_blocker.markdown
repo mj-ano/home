@@ -48,7 +48,7 @@ Finnaly, place the pi's ip address as primary DNS in DHCP settings of the Router
 
 That's it home ad blocker is configured and it already started blocking ads for us. 
 
-It's a simple idea to serve a blank page for ad links it discovered and it's gonna make browsing Ads-free atleast in home :P . 
+It's a simple idea to serve a blank page for ad links discovered and it's gonna make browsing Ads-free atleast in home :P . 
 
 ![FREEDOM](https://media.giphy.com/media/6901DbEbbm4o0/giphy.gif)
 
