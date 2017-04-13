@@ -9,7 +9,7 @@ So it's Ads everywhere and it's annoying..
 
 ![Ads Everywhere](https://media.giphy.com/media/d2YZzTQvyoNYf9YI/giphy.gif)
 
-So I came across  **PI-HOLE™** which was a fun learning way to get ads out of home. It's simple and easy way with Raspberry Pi, learn more about it [here](https://pi-hole.net/) .Here's an outline on the how part ?
+I came across  **PI-HOLE™** which was a fun learning way to get ads out of home. It's simple and easy way with Raspberry Pi, learn more about it [here](https://pi-hole.net/) .Here's an outline on the how part ?
 
 What we need,
  - Raspberry Pi 2/3 or even PiZero [You need to set up wireless network]
