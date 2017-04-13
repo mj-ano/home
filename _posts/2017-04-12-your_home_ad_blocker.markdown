@@ -1,5 +1,5 @@
 ---
-title:  "Build your own adblocker for you home"
+title:  "Build an Adblocker in & for your home using pi-hole"
 date:   2017-03-16 15:04:23
 categories: [diy]
 tags: [learnt, raspberrypi]
