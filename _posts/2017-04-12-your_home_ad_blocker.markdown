@@ -22,13 +22,11 @@ So Let's get started. I started off with the basic OS for Raspberry Pi - [Raspbi
 2. Flash the image to SDCard . Try [etcher](https://etcher.io/) it's super easy and cool :) 
 3. Insert SD Card, connect LAN Cable and Power supply . 
 
-**___________________________________________________________________________________________________________________________________**
-
 **Note**
 
 _Create a file named ssh without extension and place it in the memory card. It's to enable ssh by default when OS boots up. or you need to go through extra steps._
 
-**________________________________________________________________________________________________________________________________**
+____________________________________________________________________________________________________________________________________
 
 Turn on the power and TAAADAAAA..!! now the Pi is up. ssh into it with default password [pi/raspberry] and install our magician by running one command:
 
