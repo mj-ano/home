@@ -1,7 +1,7 @@
 ---
 title:  "Build an Adblocker in & for your home using pi-hole"
 date:   2017-03-16 15:04:23
-categories: [diy]
+categories: [diy,home]
 tags: [learnt, raspberrypi]
 ---
 
@@ -22,13 +22,15 @@ So Let's get started. I started off with the basic OS for Raspberry Pi - [Raspbi
 2. Flash the image to SDCard . Try [etcher](https://etcher.io/) it's super easy and cool :) 
 3. Insert SD Card, connect LAN Cable and Power supply . 
 
-``` 
-_Create a file named ssh without extension and place it in the memory card. It's to enable ssh by default when OS boots up. or you need to go through extra steps. _
-```
+**Pro Tips**
+
+_Create a file named ssh without extension and place it in the memory card. It's to enable ssh by default when OS boots up. or you need to go through extra steps._
+
 
 Turn on the power and TAAADAAAA..!! now the Pi is up. ssh into it with default password [pi/raspberry] and install our magician by running one command:
 
 ```
+
 curl -sSL https://install.pi-hole.net | bash
 
 ```
@@ -47,5 +49,8 @@ That's it home ad blocker is configured and it already started blocking ads for 
 
 It's a simple idea to serve a blank page for ad links it discovered and it's gonna make browsing Ads-free atleast in home :P . 
 
-
 ![FREEDOM](https://media.giphy.com/media/6901DbEbbm4o0/giphy.gif)
+
+What next gonna set up a dashboard with metrics, So that we can see how our home network is doing from anywhere.
+
+Stay Tuned..!!
